@@ -57,6 +57,18 @@ def leitura_colunas():
     for linha in c.fetchall():
         print (linha[3])
 
+#Update
+
+def atualiza_dados():
+    c.execute('UPDATE produtos SET valor = 81.00 WHERE valor = 78.00')
+    conn.commit()
+
+#Delete
+
+def remove_dados():
+    c.execute("DELETE FROM produtos WHERE valor = 60.00")
+    conn.commit()
+
 
 # create_table()
 # data_insert ()
@@ -64,5 +76,8 @@ data_insert_var()
 leitura_todos_dados()
 leitura_registros()
 leitura_colunas()
+atualiza_dados()
+remove_dados()
+
 c.close()
 conn.close()
