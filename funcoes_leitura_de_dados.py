@@ -3,7 +3,6 @@ import random
 import time
 import datetime
 import os
-#Remove o arquivo com o banco de dados SQlite (caso exista)
 
 
 
