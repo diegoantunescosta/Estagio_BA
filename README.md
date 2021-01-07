@@ -38,29 +38,29 @@ Site com mais vendas em reais
 
 ## Dia 05/01/2021
 
-Explicação do modelo de trabalho da equipe de desenvolvimento, bem como as ferramentas utilizadas para versionamento de código e método de trabalho mediante demanda estipulada dentro do trello e repositório do GitHub.
-Explicação das subdivisões da equipe de desenvolvimento dentro da empresa.
-Estudo de manipulação de dados no db SQL.
+1. Explicação do modelo de trabalho da equipe de desenvolvimento, bem como as ferramentas utilizadas para versionamento de código e método de trabalho mediante demanda estipulada dentro do trello e repositório do GitHub.
+2. Explicação das subdivisões da equipe de desenvolvimento dentro da empresa.
+3. Estudo de manipulação de dados no db SQL.
 
 ## Dia 06/01/2021
 
 Revisão de conceitos MySQL
 Curso : Introdução Ao SQL com MySQL
 
-Manipulação de dados dentro do DB	
-Gerenciamento de tabelas 	
-Manutenção de dados nas tabelas
-consulta de dados
+1. Manipulação de dados dentro do DB	
+2. Gerenciamento de tabelas 	
+3. Manutenção de dados nas tabelas
+4. consulta de dados
 
 ## Dia 07/01/2021
 
 Curso: Python Fundamentos para Análise de Dados
 
-Criando um Banco de Dados SQlite em Python
-Utilização de Cursor para Inserir registros
-Consulta de Banco de dados SQLite com Python
-Intruções de Insert/Select no SQlite com váriaveis em Python
-Intruções de Update/Delete no SQlite com váriaveis em Python
-Construção de gráficos a Partir do Banco de Dados
+1. Criando um Banco de Dados SQlite em Python
+2. Utilização de Cursor para Inserir registros
+3. Consulta de Banco de dados SQLite com Python
+4. Intruções de Insert/Select no SQlite com váriaveis em Python
+5. Intruções de Update/Delete no SQlite com váriaveis em Python
+6. Construção de gráficos a Partir do Banco de Dados
 
 
