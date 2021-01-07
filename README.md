@@ -42,17 +42,25 @@ Explicação do modelo de trabalho da equipe de desenvolvimento, bem como as fer
 Explicação das subdivisões da equipe de desenvolvimento dentro da empresa.
 Estudo de manipulação de dados no db SQL.
 
-
 ## Dia 06/01/2021
 
-
 Revisão de conceitos MySQL
-
-
 Curso : Introdução Ao SQL com MySQL
-
 
 Manipulação de dados dentro do DB	
 Gerenciamento de tabelas 	
 Manutenção de dados nas tabelas
 consulta de dados
+
+## Dia 07/01/2021
+
+Curso: Python Fundamentos para Análise de Dados
+
+Criando um Banco de Dados SQlite em Python
+Utilização de Cursor para Inserir registros
+Consulta de Banco de dados SQLite com Python
+Intruções de Insert/Select no SQlite com váriaveis em Python
+Intruções de Update/Delete no SQlite com váriaveis em Python
+Construção de gráficos a Partir do Banco de Dados
+
+
