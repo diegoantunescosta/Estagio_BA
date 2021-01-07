@@ -6,7 +6,7 @@ import os
 import matplotlib.pyplot as plt
 %matplotlib notebook
 
-#teste
+
 
 #Criando uma conexão
 
