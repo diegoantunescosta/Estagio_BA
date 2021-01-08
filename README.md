@@ -46,7 +46,7 @@ Site com mais vendas em reais
 
 Revisão de conceitos MySQL
 Curso : Introdução Ao SQL com MySQL
-Plataforma: Alura
+- Plataforma: Alura
 
 1. Manipulação de dados dentro do DB	
 2. Gerenciamento de tabelas 	
@@ -56,7 +56,7 @@ Plataforma: Alura
 ## Dia 07/01/2021
 
 Curso: Python Fundamentos para Análise de Dados
-plataforma : datascienceacademy
+- Plataforma : datascienceacademy
 
 1. Criando um Banco de Dados SQlite em Python
 2. Utilização de Cursor para Inserir registros
@@ -68,7 +68,7 @@ plataforma : datascienceacademy
 ## Dia 08/01/2021
 
 Curso : Git e contribuições para projetos Open Source
-Plataforma : Udemy
+- Plataforma : Udemy
 
 1. Comandos Clone e Pull
 2. Exercicios de colaboração em repositórios
