@@ -69,7 +69,7 @@ Curso: Python Fundamentos para Análise de Dados
 
 Curso : Git e contribuições para projetos Open Source
 - Plataforma : Udemy
-
+s
 1. Comandos Clone e Pull
 2. Exercicios de colaboração em repositórios
 3. navegação em histórico
