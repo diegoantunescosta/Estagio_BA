@@ -80,3 +80,17 @@ Curso : Git e contribuições para projetos Open Source
 8. Resolvendo conflitos Merge
 9. Braching
 10. Exercicios Branchs
+
+## Dia 11/01/2021
+
+### - Code pra criar gráficos comparativos de cidades e estados com a biblioteca Pandas e Matplotlib.(Manualzão)###  
+https://github.com/diegoantunescosta/Estagio_BA/blob/main/amostraDados/contagem.py
+
+### - code pra criar gráficos comparativos de estados, pensei em economizar mais e evitar repetição de code, com um input basicão( Bemm meia boca)###
+- possibilita fazer apenas 3 comparações de estados no máximo
+https://github.com/diegoantunescosta/Estagio_BA/blob/main/amostraDados/contageminput.py
+
+### - Code pra criar gráficos com input um pouco melhorzim que da a opção de escolher infinitas comparações (da para melhorar muito ainda) ###
+https://github.com/diegoantunescosta/Estagio_BA/blob/main/amostraDados/automacaolista.py
+
+ 
