@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 #Buscando arquivo
 dados = pd.read_csv('checkout_business_information_limpo.csv')
-print ('Escolha 1 - Estados\nEscolha 2 - Cidades')
+print ('Escolha 1 - Estados\nEscolha 2 - Cidades ')
 option = int (input("Opcao desejada: "))
 cidades = []
 valores_cidades = []
