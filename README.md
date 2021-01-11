@@ -90,7 +90,7 @@ https://github.com/diegoantunescosta/Estagio_BA/blob/main/amostraDados/contagem.
 - possibilita fazer apenas 3 comparações de estados no máximo
 https://github.com/diegoantunescosta/Estagio_BA/blob/main/amostraDados/contageminput.py
 
-### - Code pra criar gráficos com input um pouco melhorzim que da a opção de escolher infinitas comparações ### (da para melhorar muito ainda)
+### - Code pra criar gráficos com input um pouco melhorzim que da a opção de escolher infinitas comparações (da para melhorar muito ainda) ###
 https://github.com/diegoantunescosta/Estagio_BA/blob/main/amostraDados/automacaolista.py
 
  
