@@ -96,7 +96,7 @@ https://github.com/diegoantunescosta/Estagio_BA/blob/main/amostraDados/automacao
 
 ### Dia 12/01/2021
  
- ### - code pra pra pegar qualquer dados da tabela pra começar fazer pra começar fazer analise comparativa (to apanhando pra tratar o case sensitive) ###
+ ### - code pra pra pegar qualquer dados da tabela pra começar fazer analise comparativa (to apanhando pra tratar o case sensitive) ###
 https://github.com/diegoantunescosta/Estagio_BA/blob/main/quebrandocasesentitive.py
 
 ### - code pra separar o dominio dos email para analisar a porcentagem de cada um (yahoo, gmail, outlook, etc)
