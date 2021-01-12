@@ -9,6 +9,8 @@ cidades = []
 valores_cidades = []
 estados = []
 valores_estados = []
+
+
 if (option == 2):
 
     comparacoes= int (input('Quantas comparacoes deseja fazer: '))

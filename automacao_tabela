@@ -1,0 +1,18 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import re
+
+#Buscando arquivo
+data= pd.read_csv('checkout_business_information_limpo.csv')
+print ('| ID | NAME | CONTACT_EMAIL  | EMAIL | CITY | COUNTRY (ID) |')
+table = str (input("Digite opção desejada: "))
+search_data = str(input ("Digite sua busca: "))
+
+table_name= (len(data[data[table] == search_data].index))
+print (table_name)
+
+
+
+
+
+ 
