@@ -94,7 +94,7 @@ https://github.com/diegoantunescosta/Estagio_BA/blob/main/amostraDados/contagemi
 https://github.com/diegoantunescosta/Estagio_BA/blob/main/amostraDados/automacaolista.py
 
 
- Dia 12/01/2021
+### Dia 12/01/2021
  
  ### - code pra pra pegar qualquer dados da tabela pra começar fazer pra começar fazer analise comparativa (to apanhando pra tratar o case sensitive) ###
 https://github.com/diegoantunescosta/Estagio_BA/blob/main/quebrandocasesentitive.py
