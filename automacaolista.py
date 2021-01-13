@@ -20,17 +20,19 @@ if (option == 2):
     while (contador < comparacoes):
         nome_cidade = str (input ('Digite o nome da Cidade: '))
 
-        city_name= (len(dados[dados['city'] == nome_cidade].index))
+        city_name= (len(dados[dados['city'] == nome_cidade.].index))
+        
    
         cidades.append(nome_cidade)
     
         valores_cidades.append(city_name)
-
+        print (nome_cidade)
         contador += 1
     plt.subplot(132)
     plt.title('Cidades')
     plt.bar(cidades, valores_cidades)
     plt.savefig('PlotagemCidades')
+    
     
     
     print('Plotagem processada')
@@ -55,5 +57,7 @@ elif(option == 1):
     plt.savefig('PlotagemEstados')    
 
     print('Plotagem processada')
+
+
 
 plt.show()    
