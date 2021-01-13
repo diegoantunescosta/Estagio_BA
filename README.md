@@ -83,10 +83,10 @@ Curso : Git e contribuições para projetos Open Source
 
 ## Dia 11/01/2021
 
-### - Code pra criar gráficos comparativos de cidades e estados com a biblioteca Pandas e Matplotlib.(Manualzão)###  
+### - Code pra criar gráficos comparativos de cidades e estados com a biblioteca Pandas e Matplotlib.(Manualzão) ###  
 https://github.com/diegoantunescosta/Estagio_BA/blob/main/amostraDados/contagem.py
 
-### - code pra criar gráficos comparativos de estados, pensei em economizar mais e evitar repetição de code, com um input basicão( Bemm meia boca)###
+### - code pra criar gráficos comparativos de estados, pensei em economizar mais e evitar repetição de code, com um input basicão( Bemm meia boca) ###
 - possibilita fazer apenas 3 comparações de estados no máximo
 https://github.com/diegoantunescosta/Estagio_BA/blob/main/amostraDados/contageminput.py
 
@@ -94,7 +94,7 @@ https://github.com/diegoantunescosta/Estagio_BA/blob/main/amostraDados/contagemi
 https://github.com/diegoantunescosta/Estagio_BA/blob/main/amostraDados/automacaolista.py
 
 
-### Dia 12/01/2021
+## Dia 12/01/2021
  
  ### - code pra pra pegar qualquer dados da tabela pra começar fazer analise comparativa (to apanhando pra tratar o case sensitive) ###
 https://github.com/diegoantunescosta/Estagio_BA/blob/main/quebrandocasesentitive.py
@@ -106,6 +106,21 @@ https://github.com/diegoantunescosta/Estagio_BA/blob/main/dominios_email.py
 - Plataforma : datascienceacademy
 
 1. Expressôes Regulares em python
+
+
+## Dia 12/01/2021
+
+Revisão de conceitos MySQL
+### Curso : Introdução Ao SQL com MySQL
+- Plataforma: Alura
+
+1. Como segregar a seleção de dados;
+2. A usar as condições de maior e menor 
+na seleção de dados da tabela;
+3. Como filtrar dados através de datas.
+4. Como implementamos filtros compostos.
+5. Comandos de filtragem de dados compostos.
+
 
 
  
