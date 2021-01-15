@@ -108,7 +108,7 @@ https://github.com/diegoantunescosta/Estagio_BA/blob/main/dominios_email.py
 1. Expressôes Regulares em python
 
 
-## Dia 12/01/2021
+## Dia 13/01/2021
 
 Revisão de conceitos MySQL
 ### Curso : Introdução Ao SQL com MySQL
@@ -121,6 +121,20 @@ na seleção de dados da tabela;
 4. Como implementamos filtros compostos.
 5. Comandos de filtragem de dados compostos.
 
+## Dia 14/01/2021
+
+- Acompanhamento de funcionamento do release do Supercheckout
+
+## Dia 15/01/2021
+
+- Plataforma: Alura
+
+1. Como apresentar somente linhas distintas numa seleção;
+2. Como ordenar a saída da seleção;
+3. Como agrupar linhas por um conjunto de campos e aplicando um critério de agrupamento sobre os campos numéricos (SOMA, MIN, MAX, MÉDIA, etc ..).
+4. Como utilizar o comando HAVING para aplicar um filtro usando os campos numéricos agrupados como condição.
+5. Como limitar a saída das consultas;
+6. Como usar o CASE para classificar um determinado campo por um critério.
 
 
  
