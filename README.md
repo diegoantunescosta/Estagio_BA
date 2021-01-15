@@ -123,7 +123,7 @@ na seleção de dados da tabela;
 
 ## Dia 14/01/2021
 
-- Acompanhamento de funcionamento do release do Supercheckout
+- Acompanhamento do processo de release do Supercheckout
 
 ## Dia 15/01/2021
 
