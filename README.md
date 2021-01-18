@@ -136,7 +136,13 @@ na seleção de dados da tabela;
 5. Como limitar a saída das consultas;
 6. Como usar o CASE para classificar um determinado campo por um critério.
 
+## Dia 18/01/2021
 
- 
- 
+- Plataforma: Alura
+1. Como conectar duas ou mais tabelas através de JOINs;
+2. Os tipos de JOINs existentes e quais são suportados pelo MYSQL;
+3. Os comandos UNION e UNION ALL, para juntar duas ou mais seleções desde que tenham os mesmos campos selecionados;
+4. Usar uma consulta como critério de filtro de outra consulta;
+5. Como usar uma consulta dentro de outra consulta;
+6. Criar e usar visões (Views);
  
