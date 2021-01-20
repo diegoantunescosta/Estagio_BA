@@ -158,4 +158,22 @@ na seleção de dados da tabela;
 2. Funções matemáticas;
 3. Funções de datas;
 4. Funções de conversão.
+
+## Dia 19/01/2021
+
+- Plataforma: Alura
+- Consultas SQL: Avançando no SQL com MySQL
+1. Consulta de relatórios;
+
+- Plataforma: Udemy
+- Colaboração com Open Source
+1. Pull Request e Workflow do GitHub
+2. Git Ignore
+3. Commit Amend
+4. Stash
+5. Cherrypick e Blame
+
+
+
+
  
