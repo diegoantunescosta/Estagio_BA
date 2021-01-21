@@ -159,7 +159,7 @@ na seleção de dados da tabela;
 3. Funções de datas;
 4. Funções de conversão.
 
-## Dia 19/01/2021
+## Dia 20/01/2021
 
 - Plataforma: Alura
 - Consultas SQL: Avançando no SQL com MySQL
@@ -172,6 +172,14 @@ na seleção de dados da tabela;
 3. Commit Amend
 4. Stash
 5. Cherrypick e Blame
+
+## Dia 21/01/2021
+
+- Plataforma: Alura
+- Comandos DML: Manipulação de dados com MySQL
+1. Como modelar um banco de dados baseado no negócio da empresa;
+2. Revisamos todas as entidades envolvidas em um banco de dados;
+3. Aula/explicação de como funciona o dia-a-dia do DBA da Empresa,  na parte de construir e manter os diagramas ERs das bases de dados até no auxilio/construção e refatoração de queries, visando a melhor performance possível.
 
 
 
