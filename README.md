@@ -182,6 +182,14 @@ na seleção de dados da tabela;
 3. Aula/explicação de como funciona o dia-a-dia do DBA da Empresa,  na parte de construir e manter os diagramas ERs das bases de dados até no auxilio/construção e refatoração de queries, visando a melhor performance possível.
 
 
+## Dia 22/01/2021
+
+- Plataforma: Alura
+- Comandos DML: Manipulação de dados com MySQL
+1. Definicação de parâmetro para o DB
+2. Criacao do banco de dados e tabelas do diagrama proposto.
+3. Entidade e Relacionamentos entre tabelas.
+
 
 
  
