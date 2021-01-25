@@ -128,6 +128,7 @@ na seleção de dados da tabela;
 ## Dia 15/01/2021
 
 - Plataforma: Alura
+- Consultas SQL: Avançando no SQL com MySQL
 
 1. Como apresentar somente linhas distintas numa seleção;
 2. Como ordenar a saída da seleção;
@@ -139,10 +140,56 @@ na seleção de dados da tabela;
 ## Dia 18/01/2021
 
 - Plataforma: Alura
+- Consultas SQL: Avançando no SQL com MySQL
+
 1. Como conectar duas ou mais tabelas através de JOINs;
 2. Os tipos de JOINs existentes e quais são suportados pelo MYSQL;
 3. Os comandos UNION e UNION ALL, para juntar duas ou mais seleções desde que tenham os mesmos campos selecionados;
 4. Usar uma consulta como critério de filtro de outra consulta;
 5. Como usar uma consulta dentro de outra consulta;
 6. Criar e usar visões (Views);
+
+## Dia 19/01/2021
+
+- Plataforma: Alura
+- Consultas SQL: Avançando no SQL com MySQL
+
+1. Algumas funções de texto;
+2. Funções matemáticas;
+3. Funções de datas;
+4. Funções de conversão.
+
+## Dia 20/01/2021
+
+- Plataforma: Alura
+- Consultas SQL: Avançando no SQL com MySQL
+1. Consulta de relatórios;
+
+- Plataforma: Udemy
+- Colaboração com Open Source
+1. Pull Request e Workflow do GitHub
+2. Git Ignore
+3. Commit Amend
+4. Stash
+5. Cherrypick e Blame
+
+## Dia 21/01/2021
+
+- Plataforma: Alura
+- Comandos DML: Manipulação de dados com MySQL
+1. Como modelar um banco de dados baseado no negócio da empresa;
+2. Revisamos todas as entidades envolvidas em um banco de dados;
+3. Aula/explicação de como funciona o dia-a-dia do DBA da Empresa,  na parte de construir e manter os diagramas ERs das bases de dados até no auxilio/construção e refatoração de queries, visando a melhor performance possível.
+
+
+## Dia 22/01/2021
+
+- Plataforma: Alura
+- Comandos DML: Manipulação de dados com MySQL
+1. Definicação de parâmetro para o DB
+2. Criacao do banco de dados e tabelas do diagrama proposto.
+3. Entidade e Relacionamentos entre tabelas.
+
+
+
  
