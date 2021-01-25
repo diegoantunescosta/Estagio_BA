@@ -193,7 +193,7 @@ na seleção de dados da tabela;
 
 ## Dia 25/01/2021
 
-Iniciei um Crud no terminal utilizando python, no momento só faz a consulta de pelo telefone no DB. 
+Iniciei um Crud no terminal utilizando python, no momento só faz a consulta pelo telefone no DB. 
 https://github.com/diegoantunescosta/Estagio_BA/blob/main/usandoMariadb.py
 
 
