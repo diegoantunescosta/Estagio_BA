@@ -196,8 +196,15 @@ na seleção de dados da tabela;
 Iniciei um Crud no terminal utilizando python, no momento só faz a consulta pelo telefone no DB. 
 https://github.com/diegoantunescosta/Estagio_BA/blob/main/usandoMariadb.py
 
-
-
-
+## Dia 26/01/2021
+- Continuação do crud, implementei a opção de criar, excluir, selecionar dados separadamente, logo mais junto tudo: https://github.com/diegoantunescosta/Estagio_BA
+- Iniciei as querys que o Leo passou de exercicio:
+- use sakila;
+- select * from film;
+- select title from film;
+- select * from film where rental_duration < 6;
+- select * from customer where active = 0; 
+- select first_name, address from customer cliente, address endereco where active = 1 and cliente.address_id = endereco.address_id;
+- select first_name,address from customer cliente left join address endereco on cliente.address_id = endereco.address_id left join country pais  on - - endereco.country_id = pais.country_id;( estes não consegui rodar, acho que to viajando, fica pra amanhã)
 
  
