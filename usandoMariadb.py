@@ -6,8 +6,8 @@ try:
 
         
     con = mysql.connector.connect(host='localhost',database='Supercheckout', user='root', password = 'root')
-    escolher_consulta = input('Digite o numero:')
-    consulta_sql = ('SELECT * FROM Supercheckout.checkout_business_information where contact_phone like {}'.format(escolher_consulta))
+    escolher_consulta = raw_input('Digite o numero:')
+    consulta_sql = ('SELECT * FROM Supercheckout.checkout_business_information where id like {}'.format(escolher_consulta))
     cursor = con.cursor ()
     cursor.execute (consulta_sql)
     linhas = cursor.fetchall ()
@@ -28,6 +28,6 @@ except Error as e:
 finally:
 
     if con.is_connected():
-        cursor.close()
+        
         con.close()
         print ('Conexao Encerrada')
