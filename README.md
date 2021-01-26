@@ -191,5 +191,13 @@ na seleção de dados da tabela;
 3. Entidade e Relacionamentos entre tabelas.
 
 
+## Dia 25/01/2021
+
+Iniciei um Crud no terminal utilizando python, no momento só faz a consulta pelo telefone no DB. 
+https://github.com/diegoantunescosta/Estagio_BA/blob/main/usandoMariadb.py
+
+
+
+
 
  
