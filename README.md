@@ -207,4 +207,8 @@ https://github.com/diegoantunescosta/Estagio_BA/blob/main/usandoMariadb.py
 - select first_name, address from customer cliente, address endereco where active = 1 and cliente.address_id = endereco.address_id;
 - select first_name,address from customer cliente left join address endereco on cliente.address_id = endereco.address_id left join country pais  on - - endereco.country_id = pais.country_id;( estes não consegui rodar, acho que to viajando, fica pra amanhã)
 
+## Dia 27/01/2021
+
+https://docs.google.com/document/d/120S5K4RgXmQsbtsCykuDTntXbSSGIxC7-mKNs8Yn--I/edit?usp=sharing
+
  
