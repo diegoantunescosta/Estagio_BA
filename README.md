@@ -211,4 +211,7 @@ https://github.com/diegoantunescosta/Estagio_BA/blob/main/usandoMariadb.py
 
 https://docs.google.com/document/d/120S5K4RgXmQsbtsCykuDTntXbSSGIxC7-mKNs8Yn--I/edit?usp=sharing
 
+## Dia 28/01/2021
+Exercicios: https://docs.google.com/document/d/12AAlm3ZDsrITdbyVBSNpCRncA8pSGKd56glgrbK31Qk/edit?usp=sharing
+
  
