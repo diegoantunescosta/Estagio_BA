@@ -214,4 +214,9 @@ https://docs.google.com/document/d/120S5K4RgXmQsbtsCykuDTntXbSSGIxC7-mKNs8Yn--I/
 ## Dia 28/01/2021
 Exercicios: https://docs.google.com/document/d/12AAlm3ZDsrITdbyVBSNpCRncA8pSGKd56glgrbK31Qk/edit?usp=sharing
 
+## Dia 29/01/2021
+
+Pesquisei uma host 0800 pra usar o Mysql de forma remota:https://www.freesqldatabase.com/hosting/
+Configurei com meu workbench e importei um DB que estava estundando no Alura pra treinar umas query 
+
  
