@@ -219,4 +219,9 @@ Exercicios: https://docs.google.com/document/d/12AAlm3ZDsrITdbyVBSNpCRncA8pSGKd5
 - Pesquisei uma host 0800 pra usar o Mysql de forma remota:https://www.freesqldatabase.com/hosting/
 - Configurei com meu workbench e importei um DB que estava estudando no Alura pra treinar umas query 
 
+## Dia 01/02/2021
+
+- Automação de querys em python no db remoto: https://github.com/diegoantunescosta/Estagio_BA/blob/main/conexao_db_remoto.py
+ 
+
  
