@@ -223,5 +223,9 @@ Exercicios: https://docs.google.com/document/d/12AAlm3ZDsrITdbyVBSNpCRncA8pSGKd5
 
 - Automação de querys em python no db remoto: https://github.com/diegoantunescosta/Estagio_BA/blob/main/conexao_db_remoto.py
  
+## Dia 02/02/2021
 
+- Verificação e teste nas configurações do supercheckout para release.
+- Configuração de produtos at o fim do checkout 
+- configuração de leilão.
  
