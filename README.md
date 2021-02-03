@@ -228,4 +228,15 @@ Exercicios: https://docs.google.com/document/d/12AAlm3ZDsrITdbyVBSNpCRncA8pSGKd5
 - Verificação e teste nas configurações do supercheckout para release.
 - Configuração de produtos at o fim do checkout 
 - configuração de leilão.
+
+## Dia 03/02/2021
+
+- Plataforma: Alura
+- Comandos DML: Manipulação de dados com MySQL
+1. Incluindo múltiplos registros
+2. Incluindo registros a partir de outra tabela
+3. UPDATE com FROM
+4. COMMIT e ROLLBACK
+5. Campos autoincremento
+6. Trigger
  
