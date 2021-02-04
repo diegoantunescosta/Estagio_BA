@@ -239,4 +239,10 @@ Exercicios: https://docs.google.com/document/d/12AAlm3ZDsrITdbyVBSNpCRncA8pSGKd5
 4. COMMIT e ROLLBACK
 5. Campos autoincremento
 6. Trigger
- 
+
+
+## Dia 04/02/2021
+- Comandos DML: Manipulação de dados com MySQL
+- Updade, delete Trigger
+- Estrutura do comando para criação da Stored Procedure
+- Alterando e excluindo Stored Procedures
