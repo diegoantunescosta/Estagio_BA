@@ -246,3 +246,10 @@ Exercicios: https://docs.google.com/document/d/12AAlm3ZDsrITdbyVBSNpCRncA8pSGKd5
 - Updade, delete Trigger
 - Estrutura do comando para criação da Stored Procedure
 - Alterando e excluindo Stored Procedures
+
+## Dia 04/02/2021
+- A criar uma Stored Procedure (SP) que retorna um texto;
+- Como a SP retorna um valor em sua saída;
+- A usar funções do MYSQL e comentários na SP;
+- Como alterar uma SP já existente;
+Como excluir uma SP.
