@@ -253,3 +253,8 @@ Exercicios: https://docs.google.com/document/d/12AAlm3ZDsrITdbyVBSNpCRncA8pSGKd5
 - A usar funções do MYSQL e comentários na SP;
 - Como alterar uma SP já existente;
 Como excluir uma SP.
+
+## Dia 08/02/2021
+  - Inicio de ambiente para rodar projetos PHP
+## Dia 08/02/2021
+  - Finalização de ambiente para rodar projetos PHP
