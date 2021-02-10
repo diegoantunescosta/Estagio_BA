@@ -258,3 +258,9 @@ Como excluir uma SP.
   - Inicio de ambiente para rodar projetos PHP
 ## Dia 08/02/2021
   - Finalização de ambiente para rodar projetos PHP
+## Dia 10/02/2021
+  - Procedures SQL
+  - Controle de Erros
+  -Atribuição de valor usando SELECT
+  - If THEN Else
+  -CASE AND CASE
