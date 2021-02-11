@@ -264,3 +264,14 @@ Como excluir uma SP.
   -Atribuição de valor usando SELECT
   - If THEN Else
   - CASE AND CASE
+  
+## Dia 11/02/2021
+  - Procedures SQL
+  - CASE CONDICIONAL
+  - LOOPING
+  - If THEN Else
+  - CASE AND CASE
+  - LIMITACOES DO SELECT INTO
+  - Looping com Cursor
+  - Funçoes
+
