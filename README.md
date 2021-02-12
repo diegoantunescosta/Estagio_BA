@@ -275,3 +275,10 @@ Como excluir uma SP.
   - Looping com Cursor
   - Funçoes
 
+## Dia 12/02/2021
+### Procedures SQL
+  - Resolvendo problemas de PK
+  - Melhorando Tiggers
+  - Aplicando Stored Procedures a Triggers
+### Segurança e otimização do banco
+  - Tuning de Hardware
