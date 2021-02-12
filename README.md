@@ -278,7 +278,7 @@ Como excluir uma SP.
 ## Dia 12/02/2021
 ### Procedures SQL
   - Resolvendo problemas de PK
-  - Melhorando Tiggers
+  - Melhorando Triggers
   - Aplicando Stored Procedures a Triggers
 ### Segurança e otimização do banco
   - Tuning de Hardware
