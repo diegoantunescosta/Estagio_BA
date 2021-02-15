@@ -284,6 +284,7 @@ Como excluir uma SP.
   - Tuning de Hardware
   
   ## Dia 15/02/2021
+  ### Segurança e otimização do banco
 - A importância das variáveis de ambiente
 - Como modificar a variável de ambiente pelo Workbench
 - O que são os mecanismos de armazenamento e os tipos principais, com suas características
