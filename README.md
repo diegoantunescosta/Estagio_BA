@@ -290,8 +290,8 @@ Como excluir uma SP.
 - O que são os mecanismos de armazenamento e os tipos principais, com suas características
 - Como determinar o mecanismo de armazenamento no momento da criação das tabelas
 
-  ## Dia 18/02/2021
+  ## Dia 17/02/2021
 - Gerenciamento de niveis de serviço 
 -  indentificaço de prioridade Issues
-- 
+ 
 
