@@ -283,15 +283,24 @@ Como excluir uma SP.
 ### Segurança e otimização do banco
   - Tuning de Hardware
   
-  ## Dia 15/02/2021
+ ## Dia 15/02/2021
   ### Segurança e otimização do banco
 - A importância das variáveis de ambiente
 - Como modificar a variável de ambiente pelo Workbench
 - O que são os mecanismos de armazenamento e os tipos principais, com suas características
 - Como determinar o mecanismo de armazenamento no momento da criação das tabelas
 
-  ## Dia 17/02/2021
+ ## Dia 17/02/2021
 - Gerenciamento de niveis de serviço 
 -  indentificaço de prioridade Issues
+
+ ## Dia 18/02/2021
+- Organização das sugestões feitas a equipe do Superchekout
+
+## Dia 18/02/2021
+ ### Segurança e otimização do banco
+ - Backup e recuperação de dados Mysql
+ - Plano de execução
+
  
 
