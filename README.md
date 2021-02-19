@@ -297,7 +297,7 @@ Como excluir uma SP.
  ## Dia 18/02/2021
 - Organização das sugestões feitas a equipe do Superchekout
 
-## Dia 18/02/2021
+## Dia 19/02/2021
  ### Segurança e otimização do banco
  - Backup e recuperação de dados Mysql
  - Plano de execução
