@@ -302,5 +302,14 @@ Como excluir uma SP.
  - Backup e recuperação de dados Mysql
  - Plano de execução
 
+## Dia 22/02/2021
+ ### Segurança e otimização do banco
+ - Plano de execução
+ - Custo da Consulta
+ - Usando Indices
+ - Algoritmos Hash e BTree
+### Evento Rocketseat - Node.js
+ -  início ao desenvolvimento da API
+
  
 
