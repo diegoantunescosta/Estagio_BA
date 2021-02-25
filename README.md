@@ -311,5 +311,13 @@ Como excluir uma SP.
 ### Evento Rocketseat - Node.js
  -  início ao desenvolvimento da API
 
+## Dia 23/02/2021
+### Evento Rocketseat - Node.js
+ -  desenvolvimento da API
+
+## Dia 24/02/2021
+### Protótipo de app de rastreio dos correios
+ -  tela de input do código de rastreio (frontend com react) 
+ -  apresentação da busca do rastreio no console (backend com node)
  
 
