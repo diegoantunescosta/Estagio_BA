@@ -320,4 +320,8 @@ Como excluir uma SP.
  -  tela de input do código de rastreio (frontend com react) 
  -  apresentação da busca do rastreio no console (backend com node)
  
+## Dia 24/02/2021
+### Protótipo de app de rastreio dos correios
+ -  Retorno dos dados
+ -  otimização do tracking (backend com node)
 
