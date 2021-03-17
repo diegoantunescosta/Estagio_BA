@@ -327,4 +327,12 @@ Como excluir uma SP.
 
 
 ## Dia 26/02/2021 a 16/03/2021
-  - Implementação do APP de rastreio de encomendas nos Correios
+  - Implementação do APP de rastreio de encomendas dos Correios
+
+## Dia 17/03/2021
+### Segurança e otimização do banco
+  - Algoritmos Hash e BTree
+  - Algoritimo de Busca
+  - Usando Indices
+  - MysqlSlap
+  - Plano de execução gráfico
