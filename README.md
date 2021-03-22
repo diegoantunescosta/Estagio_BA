@@ -336,3 +336,12 @@ Como excluir uma SP.
   - Usando Indices
   - MysqlSlap
   - Plano de execução gráfico
+
+## Dia 22/03/2021
+  - Propriedades do usuário normal
+  - Criando um usuário para backup
+  - Limitando o acesso aos esquemas
+  - Revogando privilégios
+
+  - 
+  - 
