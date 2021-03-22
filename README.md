@@ -338,10 +338,10 @@ Como excluir uma SP.
   - Plano de execução gráfico
 
 ## Dia 22/03/2021
+### Segurança e otimização do banco
   - Propriedades do usuário normal
   - Criando um usuário para backup
   - Limitando o acesso aos esquemas
   - Revogando privilégios
 
-  - 
-  - 
+   
