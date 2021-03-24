@@ -344,4 +344,10 @@ Como excluir uma SP.
   - Limitando o acesso aos esquemas
   - Revogando privilégios
 
+## Dia 22/03/2021
+### Modelagem de banco de dados relacional
+- Modelos de dados, esquemas e instâncias
+- Processos de implementação
+- Entidades e atributos
+
    
