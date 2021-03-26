@@ -350,4 +350,17 @@ Como excluir uma SP.
 - Processos de implementação
 - Entidades e atributos
 
+## Dia 25/03/2021
+### Modelagem de banco de dados relacional
+- Modelos de dados, esquemas e instâncias
+- Processos de implementação
+- Entidades e atributos
+
+## Dia 26/03/2021
+### Modelagem de banco de dados relacional
+- Entidades Fracas
+- Generalização e especialização
+- Estudo de caso livraria
+- Ferramenta brModelo
+
    
